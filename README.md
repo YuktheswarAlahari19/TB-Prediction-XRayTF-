@@ -7,7 +7,6 @@ This repository demonstrates a TensorFlow-based pipeline for analyzing chest X-r
 ## Dataset
 
 * **Source**: Kaggle TB Chest X-Ray Images Dataset
-* 
 **Classes:**
 
 - Healthy
@@ -53,13 +52,10 @@ This repository demonstrates a TensorFlow-based pipeline for analyzing chest X-r
    ```bash
    python src/train.py --data_dir data/ --epochs 50 --batch_size 32 --learning_rate 1e-3
    ```
-4. **Evaluate**:
-
-   * Review printed metrics and saved plots in `models/`.
-
+   
 ## Results & Next Steps
 
-* Achieved validation accuracy of \~X%.
+* Achieved Test accuracy of : 0.9756 
 * Future work: explore advanced architectures (e.g., EfficientNet), additional augmentations, and hyperparameter tuning.
 
 ## Contributing
