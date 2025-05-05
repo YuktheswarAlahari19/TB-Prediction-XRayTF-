@@ -8,7 +8,7 @@ This repository demonstrates a TensorFlow-based pipeline for analyzing chest X-r
 
 * **Source**: Kaggle TB Chest X-Ray Images Dataset
 * **Classes:**
-  Healthy
+  Healthy , 
   Tuberculosis (TB)
 
 ## Key Components
